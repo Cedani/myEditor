@@ -1,0 +1,5 @@
+#pragma once
+
+#define SIMPLE_VERT "@SIMPLE_VERT@"
+#define SIMPLE_FRAG "@SIMPLE_FRAG@"
+#define RES_IMAGES "@RES_IMAGES@"
